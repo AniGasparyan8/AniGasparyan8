@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniGasparyan8 I'm QA Engineer, also I try to improve my knowledge and learn more and more new things.
+- 👋 Hi, I’m Ani Gasparyan I'm QA Engineer, also I try to improve my knowledge and learn more and more new things.
 - 👀 The future belongs to those, who belive in beauty of their dreams!
 - 🌱 I’m completed the course QA Automation course at Online course QA at Silicon Valley - QASV.US
 - 💞️ I am ready to work and learn and gain experience with any team.
